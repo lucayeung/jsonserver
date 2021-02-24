@@ -10,6 +10,12 @@
 - file: `db.json`
 - [try](https://my-json-server.typicode.com/cheeseburger7000/Introd)
 
+Free Plan:  
+
+- 10KB db.json max  
+- 5 max REST endpoints  
+- 30 max items per endpoint
+
 ### Mockend
 
 - [docs](https://docs.mockend.com/)
